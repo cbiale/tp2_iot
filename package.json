@@ -1,0 +1,17 @@
+{
+  "name": "lista",
+  "version": "1.0.0",
+  "description": "Implementacion de una lista claves:valores con TDD en Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec",
+    "coverage": "nyc --reporter=html mocha"
+  },
+  "author": "Claudio Omar Biale",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0",
+    "nyc": "^15.1.0"
+  }
+}
