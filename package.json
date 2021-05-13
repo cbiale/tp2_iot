@@ -1,7 +1,7 @@
 {
   "name": "lista",
   "version": "1.0.0",
-  "description": "Implementacion de una lista claves:valores con TDD en Javascript",
+  "description": "Implementación de una lista claves:valores con TDD en Javascript",
   "main": "index.js",
   "scripts": {
     "test": "mocha --reporter spec",
